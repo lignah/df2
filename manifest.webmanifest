@@ -1,0 +1,17 @@
+{
+  "name": "디지털 포렌식 2급 필기",
+  "short_name": "디포전 2급",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#0f766e",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
